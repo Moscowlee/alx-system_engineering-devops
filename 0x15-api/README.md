@@ -1,5 +1,4 @@
 # 0x15-API
-![api](https://appmaster.io/cdn-cgi/image/width=768,quality=90,format=auto/api/_files/PqV7MuNwv89GrZvBd4LNNK/download/)
 
 ## Learning Objectives
 - What Bash scripting should not be used for
